@@ -13,7 +13,7 @@
 
 
 ## Team Snap
-![image](Screenshot(39).png)
+![image](https://github.com/SOWMYAREDDY97/routing-an-express-app/blob/master/Screenshot%20(39).png)
 
 
 ## Refferences
